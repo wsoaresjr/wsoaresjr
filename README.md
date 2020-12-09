@@ -1,10 +1,10 @@
 ### Olá, Seja bem-vindo ao meu perfil do Github! 👋
 
-
+<!--
 **wsoaresjr/wsoaresjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 Atualmente, trabalho como Analista de Montagem de Testes, na Fundação Centro de Políticas Públicas e Avaliação da Educação (Fundação Caed).
 - 🌱 No momento, sou mestrando no Programa de Pós-graduação de Mestrado Profissional em Educação Matemática, da Universidade Federal de Juiz de Fora (UFJF), em Minas Gerais, além de realizar o curso de Graduação Tecnológica em Ciências de Dados, pela Cruzeiro do Sul.
 <!--
