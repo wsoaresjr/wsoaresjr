@@ -55,10 +55,10 @@
   </p>
 </p>
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
-
 -->
 
-### Olá, Seja bem-vindo ao meu perfil do Github! 👋    (O perfil, ainda, está em construção!)
+
+#### Olá, Seja bem-vindo ao meu perfil do Github! 👋    (O perfil, ainda, está em construção!)
 
 <!--
 **wsoaresjr/wsoaresjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,10 +82,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsoaresjr)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+<!--
 [![wsoares's github stats](https://github-readme-stats.vercel.app/api?username=wsoaresjr&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
+-->
