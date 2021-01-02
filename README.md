@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - 📫 Como chegar até mim:
     - :bulb: [Medium articles](https://medium.com/@wsoaresjr)
     - :pencil2: [Twitter](https://twitter.com/w_soares/)
-    - :office: [LinkedIn](https://www.linkedin.com/in/walter-soares-970790133/)
+    - :office: [LinkedIn](https://www.linkedin.com/in/walter-soares/)
     - :email: [Email](mailto:wsoares@live.com)
 <!--
 - 😄 Pronouns: ...
