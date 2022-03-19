@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Sou Professor de Matemática, Cientista de Dados e Desenvolvedor R-Shiny. Atualmente, trabalho como Analista de Instrumentos de Avaliação, na Fundação Centro de Políticas Públicas e Avaliação da Educação (Fundação Caed) e leciono na Rede Pública Estadual do Rio de Janeiro. Desenvolvo projetos particulares em Ciências de Dados.
 
-- 🌱 Sou Mestrando no Programa de Pós-graduação de Mestrado Profissional em Educação Matemática, da Universidade Federal de Juiz de Fora (UFJF), em Minas Gerais e Aluno do Curso de MBA em Data Science e Analytics, da Universidade de São Paulo (USP/Esalq), em São Paulo.
+- 🌱 Sou Mestrando no **Programa de Pós-graduação de Mestrado Profissional em Educação Matemática**, da Universidade Federal de Juiz de Fora (UFJF), em Minas Gerais e Aluno do **Curso de MBA em Data Science e Analytics**, da Universidade de São Paulo (USP/Esalq), em São Paulo.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
